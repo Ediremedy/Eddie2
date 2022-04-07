@@ -1,2 +1,2 @@
-# cradle
-QuizzGame
+# LIST OF FUNCTIONS AND DESCRIPTION
+
